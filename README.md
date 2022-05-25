@@ -1,2 +1,1 @@
-# csgo-cfg
-Config &amp; Binds for CSGO
+# exec autoexec in console (~)
